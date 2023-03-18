@@ -4,4 +4,4 @@ https://kusaremkn.github.io/mikanchan-bible/
 
 ## ライセンス
 
-CC BY-SA 4.0
+BSD 2-Clause License
